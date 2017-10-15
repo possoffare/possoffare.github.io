@@ -31,23 +31,23 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://goo.gl/images/a6qOX0');
+  background-image: url('http://cfile30.uf.tistory.com/image/250ECD5053FDA017067CF2');
   background-size: cover;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
-  color:#fff;
+  color:#000000;
 }
 
 .jumbotron h2 {
   font-size: 60px;
   font-weight: 700;
   margin: 0;
-  color:#fff;
+  color:#000000;
 }
 
 .jumbotron h3 {
   margin: 0 0 20px;
-  color:#fff;
+  color:#000000;
 }
 
 section .row img {
