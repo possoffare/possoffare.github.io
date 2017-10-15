@@ -31,22 +31,23 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://goo.gl/images/a6qOX0.jpg');
+  background-image: url('https://goo.gl/images/a6qOX0');
   background-size: cover;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
+  color:#fff;
 }
 
 .jumbotron h2 {
   font-size: 60px;
   font-weight: 700;
   margin: 0;
-  color: #fff;
+  color:#fff;
 }
 
 .jumbotron h3 {
   margin: 0 0 20px;
-  color: #fff;
+  color:#fff;
 }
 
 section .row img {
