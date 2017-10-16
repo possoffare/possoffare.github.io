@@ -55,20 +55,20 @@ header.contact-btn a:active {
   background-size: cover;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
-  color:#42426F;
+  color:#23238E;
 }
 
 .jumbotron h2 {
   font-size: 30px;
   margin: 0;
-  color:#42426F;
+  color:#23238E;
 }
 
 .jumbotron h3 {
   margin: 0 0 50px;
   font-size: 50px;
   font-weight: 700;
-  color:#42426F;
+  color:#23238E;
   padding: 30px;
 }
 
