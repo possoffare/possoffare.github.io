@@ -23,7 +23,7 @@ header nav {
   display: flex;
   justify-content: flex-end;
   font-size: 20px;
-  color: #204156;
+  color: #00009C;
 }
 
 header p {
@@ -38,7 +38,7 @@ header.contact-btn {
 header.contact-btn a {
   margin-right: 30px;
   padding: 8px 18px;
-  border: 1px solid #204156;
+  border: 1px solid #BC8F8F;
 
 }
 
