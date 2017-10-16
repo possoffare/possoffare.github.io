@@ -21,12 +21,32 @@ header h1 {
 header nav {
   display: flex;
   justify-content: flex-end;
+  height: 60px;
+  line-height: 60px;
+  color: #204156;
 }
 
 header p {
   padding: 0 20px;
   margin: 0;
 }
+
+header.contact-btn {
+	float: right;
+}
+
+header.contact-btn a {
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+
+}
+
+header.contact-btn a:active {
+  position: relative;
+  bottom: 2px;
+}
+
 
 .jumbotron {
   display: flex;
@@ -51,7 +71,6 @@ header p {
   color:#000000;
   padding: 30px;
 }
-
 
 section .row img {
   margin: 0 0 30px;
