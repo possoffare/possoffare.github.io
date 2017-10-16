@@ -31,7 +31,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('http://cfile21.uf.tistory.com/image/24553A3B5805E0F401E9BB');
+  background-image: url('http://www.jejusidae.com/news/photo/201505/1538_2650_1159.jpg');
   background-size: cover;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
@@ -39,7 +39,7 @@ header p {
 }
 
 .jumbotron h2 {
-  font-size: 25px;
+  font-size: 35px;
   font-weight: 700;
   margin: 0;
   color:#000000;
@@ -50,13 +50,15 @@ header p {
   color:#000000;
 }
 
+
 section .row img {
   margin: 0 0 30px;
   width: 100%;
 }
 
-.col-md-6 {
+.col-md-10 {
   margin: 0 0 30px;
+  border: 2px;
 }
 
 .btn.btn-primary {
