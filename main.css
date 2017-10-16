@@ -1,5 +1,5 @@
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: Palatino, 'Palatino Linotype', serif;
   font-weight: 300;
 }
 
@@ -21,8 +21,7 @@ header h1 {
 header nav {
   display: flex;
   justify-content: flex-end;
-  height: 60px;
-  line-height: 60px;
+  font-size: 20px;
   color: #204156;
 }
 
